@@ -2,12 +2,6 @@
 
 Adding some of the free learning courses I have come across and use. Some of these are free to use during the COVID-19 wake, whilst others are always free. In alphabetical order.
 
-### Coursera
-
-https://www.coursera.org/
-
-Literally hundreds of universities and companies have free courses available here. Everything from coding to physics, arts, history, and heaps more. All the courses are free to do, and if you want to get officially certified then you pay to sit the exam.
-
 ### AWS DeepRacer
 
 https://aws.amazon.com/deepracer/
@@ -25,6 +19,12 @@ By extension, AWS has tonnes of free "Training and Certification" courses; it's 
 https://www.codecademy.com/
 
 A go to for lots of coders! Learn to code in Python, HTML/CSS, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R, C#, PHP, Go, and Swift. Their tracking and goals system is really nice for motivation too.
+
+### Coursera
+
+https://www.coursera.org/
+
+Literally hundreds of universities and companies have free courses available here. Everything from coding to physics, arts, history, and heaps more. All the courses are free to do, and if you want to get officially certified then you pay to sit the exam.
 
 ### CS Courses
 
