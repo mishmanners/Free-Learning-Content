@@ -114,6 +114,8 @@ Built by Bloc io, this uses gaming to teach Ruby programming. It's a bootcamp fo
 
 https://www.sololearn.com/
 
+This place has tonnes of free learning for Python, Java, and C++ mainly. The platform is also an app so you can do it on a phone, meaning you're not limited to your computer. Secondly, it doesn't allow you to continue modules until you complete a test, so it's a fantastic way to learn!
+
 ### Tafe NSW
 
 https://www.tafensw.edu.au/fee-free-short-courses
