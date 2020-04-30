@@ -110,6 +110,10 @@ https://www.bloc.io/ruby-warrior#/
 
 Built by Bloc io, this uses gaming to teach Ruby programming. It's a bootcamp for learning to code from scratch, right up to being a full time developer!
 
+### Solo Learn
+
+https://www.sololearn.com/
+
 ### Tafe NSW
 
 https://www.tafensw.edu.au/fee-free-short-courses
