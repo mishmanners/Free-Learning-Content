@@ -72,13 +72,17 @@ The university itself is no longer running, but there's lots of courses now on D
 
 https://www.khanacademy.org/
 
-Lots of courses around schooling, programming, maths etc. There's something for each year level from preschool through to 8th grade, and then lots available for open learning. 
+Lots of courses around schooling, programming, maths etc. There's something for each year level from preschool through to 8th grade, and then lots available for open learning.
 
 ### Laracasts
 
 https://laracasts.com/
 
 A cool online place to learn some really indepth technical content. The UI is amazing and it's a great place to learn Laravel along with JavaScript and PHP. 
+
+### Minecraft Education Edition
+
+Grab [Minecraft today](https://education.minecraft.net/class-resources/coding-with-minecraft#:~:text=Minecraft%3A%20Education%20Edition%20offers%20an,apply%20coding%20across%20STEM%20subjects) from the Microsoft Store and start learning to code. A 30 hour circular for students aged 11-16.
 
 ### MIT Open Courseware
 
