@@ -108,6 +108,10 @@ https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6
 
 Passed on by a "Master C#" friend. This one came highly recommended for anyone wanting to learn unity and Master C#.
 
+### Vue Mastery
+
+One of the coolest places to learn Vue JS is [Vue Mastery](https://www.vuemastery.com/courses/). Vue JS a JavaScript framework for creating awesome apps, animations, transitions, and more. Make your websites pretty, and these courses are super easy to understand, follow along, and build from scratch. Beginner right up to advance.
+
 ### Ruby Warrior
 
 https://www.bloc.io/ruby-warrior#/
