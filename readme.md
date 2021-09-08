@@ -135,3 +135,17 @@ For those New South Walians (Australian NSW residents), there's a bunch of free 
 https://www.twilio.com/quest
 
 Put together by the Twilio team, TwilioQuest uses role playing to teach coding. Embark on a quest to save The Cloud and learn to code in Python, JavaScript, and learn about open source.
+
+# Resources
+
+### DEV
+
+https://dev.to
+
+Lots of content and tutorials from all around the world. There are developes writing short tutorials, long tutorials, and keeping you up to date on the latest news.
+
+### Stackoverflow
+
+https://stackoverflow.com/
+
+Ever stuck on a particular problem, or not sure what how to fix a particular line of code. Stackoverflow has thousands of tips, troubleshooting, and more. Check it out next time you're stumped on your code.
