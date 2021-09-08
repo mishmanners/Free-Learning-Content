@@ -1,6 +1,6 @@
 # Courses
 
-Adding some of the free learning courses I have come across and use. Some of these are free to use during the COVID-19 wake, whilst others are always free. In alphabetical order. Originally published over on the HackathonQueen.com blog.
+Adding some of the free learning courses I have come across and use. Some of these are free to use during the COVID-19 wake, whilst others are always free. In alphabetical order. Originally published over on the [HackathonQueen.com blog](https://hackathongoddess.wordpress.com/2020/04/23/where-to-learn-for-free/).
 
 ### AWS DeepRacer
 
