@@ -138,6 +138,8 @@ Put together by the Twilio team, TwilioQuest uses role playing to teach coding. 
 
 # Resources
 
+As you're learning, you can often get stuck on a particular problem. Check out these places to help you find information on particular topics or how to solve your code problems.
+
 ### DEV
 
 https://dev.to
