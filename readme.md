@@ -118,6 +118,12 @@ https://www.bloc.io/ruby-warrior#/
 
 Built by Bloc io, this uses gaming to teach Ruby programming. It's a bootcamp for learning to code from scratch, right up to being a full time developer!
 
+### Stanford University
+
+https://online.stanford.edu/free-courses
+
+This uni has a tonne of free courses from AI, to machine learning, coding, education, health, and more. You can learn exactly what students are learning, the only catch is you don't get the piece of paper (no qualification). But you get access to some of the brightest minds on the planet!
+
 ### Solo Learn
 
 https://www.sololearn.com/
