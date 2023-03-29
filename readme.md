@@ -78,7 +78,19 @@ Lots of courses around schooling, programming, maths etc. There's something for 
 
 https://laracasts.com/
 
-A cool online place to learn some really indepth technical content. The UI is amazing and it's a great place to learn Laravel along with JavaScript and PHP. 
+A cool online place to learn some really indepth technical content. The UI is amazing and it's a great place to learn Laravel along with JavaScript and PHP.
+
+### Learn Python
+
+https://learnpython.org
+
+Take your Python skills to the next level.
+
+### Learn Web 3
+
+https://learnweb3.io
+
+Learn to master Web3 and other new technologies such as blockchain, VR, and metaverse.
 
 ### Minecraft Education Edition
 
@@ -110,7 +122,7 @@ Passed on by a "Master C#" friend. This one came highly recommended for anyone w
 
 ### Vue Mastery
 
-One of the coolest places to learn Vue JS is [Vue Mastery](https://www.vuemastery.com/courses/). Vue JS a JavaScript framework for creating awesome apps, animations, transitions, and more. Make your websites pretty, and these courses are super easy to understand, follow along, and build from scratch. Beginner right up to advance.
+One of the coolest places to learn Vue JS is [Vue Mastery](https://www.vuemastery.com/courses/). Vue JS a JavaScript framework for creating awesome apps, animations, transitions, and more. Make your websites pretty, and these courses are super easy to understand, follow along, and build from scratch. Beginner right up to advance. [Vue School](https://vueschool.io) is also another great place to learn view.
 
 ### Ruby Warrior
 
@@ -135,7 +147,6 @@ This place has tonnes of free learning for Python, Java, and C++ mainly. The pla
 https://www.tafensw.edu.au/fee-free-short-courses
 
 For those New South Walians (Australian NSW residents), there's a bunch of free certifications just for you. This is your chance to get a full diploma or certificate 100% free. There's some eligibility requirements so check them out on the website.
-
 
 # Resources
 
