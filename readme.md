@@ -20,6 +20,12 @@ https://www.codecademy.com/
 
 A go to for lots of coders! Learn to code in Python, HTML/CSS, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R, C#, PHP, Go, and Swift. Their tracking and goals system is really nice for motivation too.
 
+### Cognitive Class
+
+https://cognitiveclass.ai
+
+There's so much stuff happening around AI and ML. You can learn all about these as well as blockchain, cloud services, serverless, Docker, Kubernetes, and data science as well as earn free certificates.
+
 ### Coursera
 
 https://www.coursera.org/
@@ -46,9 +52,9 @@ Over 2500 online courses from hundreds of unis like Harvard and MIT. Nearly all 
 
 ### FreeCodeCamp
 
-As the name suggests, it's all free! Learn heaps of technical content like web design, JavaScript, front end, data visualisation, and more. You can also get certified
-
 https://www.freecodecamp.org/
+
+As the name suggests, it's all free! Learn heaps of technical content like web design, JavaScript, front end, data visualisation, and more. You can also get certified!
 
 ### General Assembly
 
@@ -68,6 +74,12 @@ https://developer.android.com/courses
 
 The university itself is no longer running, but there's lots of courses now on Developing for Android if that's your thing.
 
+### Kaggle
+
+https://kaggle.com
+
+Learn SQL, machine learning, data science, and AI, AND get free certficates.
+
 ### Khan Academy
 
 https://www.khanacademy.org/
@@ -80,6 +92,12 @@ https://laracasts.com/
 
 A cool online place to learn some really indepth technical content. The UI is amazing and it's a great place to learn Laravel along with JavaScript and PHP.
 
+## Learn Microsoft
+
+https://learn.microsoft.com
+
+You can learn a tonne of new things on the Microsoft learning portal. There's also free certificates for things like .NET, Azure, GitHub, SQL Server, and more.
+
 ### Learn Python
 
 https://learnpython.org
@@ -91,6 +109,12 @@ Take your Python skills to the next level.
 https://learnweb3.io
 
 Learn to master Web3 and other new technologies such as blockchain, VR, and metaverse.
+
+### MathLab Academy
+
+https://matlabacademy.mathworks.com
+
+Level up your machine learning, artifical intelligence, and data science skills. The best thing is you can get free accreditation for these courses.
 
 ### Minecraft Education Edition
 
