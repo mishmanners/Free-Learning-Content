@@ -136,11 +136,6 @@ https://www.tafensw.edu.au/fee-free-short-courses
 
 For those New South Walians (Australian NSW residents), there's a bunch of free certifications just for you. This is your chance to get a full diploma or certificate 100% free. There's some eligibility requirements so check them out on the website.
 
-### Twilio Quest
-
-https://www.twilio.com/quest
-
-Put together by the Twilio team, TwilioQuest uses role playing to teach coding. Embark on a quest to save The Cloud and learn to code in Python, JavaScript, and learn about open source.
 
 # Resources
 
