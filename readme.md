@@ -68,11 +68,11 @@ https://resources.github.com/learn/certifications/
 
 There are now official certfications you can do to get qualified in using GitHub. It's free to do the modules, and you can pay to sit the exam. Currently there are four types: Foundations, Actions, Security, and Admin.
 
-### GitHub Learning Lab
+### GitHub Skil;s
 
-https://lab.github.com/
+https://skills.github.com/
 
-Of course we can't go past our own GitHub learning lab! Lots of free courses on how to use GitHub, everything from the basics like opening a PR, right through to creating Docker containers, building Actions, and more.
+Of course we can't go past our own GitHub Skills! Lots of free courses on how to use GitHub, everything from the basics like opening a PR, right through to creating Docker containers, building Actions, and more.
 
 ### Google University
 
