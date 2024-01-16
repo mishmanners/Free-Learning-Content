@@ -68,7 +68,7 @@ https://resources.github.com/learn/certifications/
 
 There are now official certfications you can do to get qualified in using GitHub. It's free to do the modules, and you can pay to sit the exam. Currently there are four types: Foundations, Actions, Security, and Admin.
 
-### GitHub Skil;s
+### GitHub Skills
 
 https://skills.github.com/
 
