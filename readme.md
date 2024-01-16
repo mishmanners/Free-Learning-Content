@@ -62,6 +62,12 @@ https://generalassemb.ly/
 
 A global group that does courses and workshops in everything from coding, to design, marketing, startups and more. They often have lots of free workshops for people to attend both in person and online (all online during COVID-19). Throughout the COVID-19 crisis, GA have launched "Free Fridays", with 100% free workshops EVERY FRIDAY! Make sure you click the correct link for the course and ensure you select the correct timezone.
 
+### GitHub Certifications
+
+https://resources.github.com/learn/certifications/
+
+There are now official certfications you can do to get qualified in using GitHub. It's free to do the modules, and you can pay to sit the exam. Currently there are four types: Foundations, Actions, Security, and Admin.
+
 ### GitHub Learning Lab
 
 https://lab.github.com/
