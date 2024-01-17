@@ -14,6 +14,12 @@ https://www.aws.training/LearningLibrary
 
 By extension, AWS has tonnes of free "Training and Certification" courses; it's all AWS tools like Security, cloud, database and more.
 
+### Community in a box
+
+https://github.com/orgs/community/discussions/86520
+
+How to set up an internal community, using GitHub Discussions, collecting feedback, and much more. It's a free resource for anyone looking to get access to a Discussions repository, getting started with cloning, and setting up your community.
+
 ### Codecademy
 
 https://www.codecademy.com/
