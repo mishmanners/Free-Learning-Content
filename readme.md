@@ -104,12 +104,6 @@ https://laracasts.com/
 
 A cool online place to learn some really indepth technical content. The UI is amazing and it's a great place to learn Laravel along with JavaScript and PHP.
 
-## Microsoft Learn
-
-https://learn.microsoft.com
-
-You can learn a tonne of new things on the Microsoft learning portal. There are lots of learning pathways for things like .NET, Azure, GitHub, SQL Server, and more. All of the learning is free, and you'll earn XP for completing courses. Some courses will require you to pay if you want the actual certification.
-
 ### Learn Python
 
 https://learnpython.org
@@ -127,6 +121,12 @@ Learn to master Web3 and other new technologies such as blockchain, VR, and meta
 https://matlabacademy.mathworks.com
 
 Level up your machine learning, artifical intelligence, and data science skills. The best thing is you can get free accreditation for these courses.
+
+## Microsoft Learn
+
+https://learn.microsoft.com
+
+You can learn a tonne of new things on the Microsoft learning portal. There are lots of learning pathways for things like .NET, Azure, GitHub, SQL Server, and more. All of the learning is free, and you'll earn XP for completing courses. Some courses will require you to pay if you want the actual certification.
 
 ### Minecraft Education Edition
 
