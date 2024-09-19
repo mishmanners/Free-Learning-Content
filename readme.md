@@ -116,6 +116,10 @@ https://learnweb3.io
 
 Learn to master Web3 and other new technologies such as blockchain, VR, and metaverse.
 
+### LinkedIn Learning
+
+Many courses and skills on LinkedIn are free (there are some paid ones too). You can complete pathways and courses for things like AI, coding, technology solutions, evangelism, and lots more.
+
 ### MathLab Academy
 
 https://matlabacademy.mathworks.com
