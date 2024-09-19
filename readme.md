@@ -184,6 +184,12 @@ https://www.tafensw.edu.au/fee-free-short-courses
 
 For those New South Walians (Australian NSW residents), there's a bunch of free certifications just for you. This is your chance to get a full diploma or certificate 100% free. There's some eligibility requirements so check them out on the website.
 
+### Scaler Academy
+
+https://www.scaler.com/academy/
+
+This upskilling platform can transform the tech career with cutting-edge courses and expert mentorship.
+
 # Resources
 
 As you're learning, you can often get stuck on a particular problem. Check out these places to help you find information on particular topics or how to solve your code problems.
