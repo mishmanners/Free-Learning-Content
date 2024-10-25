@@ -126,7 +126,7 @@ https://matlabacademy.mathworks.com
 
 Level up your machine learning, artifical intelligence, and data science skills. The best thing is you can get free accreditation for these courses.
 
-## Microsoft Learn
+### Microsoft Learn
 
 https://learn.microsoft.com
 
