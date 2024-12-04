@@ -118,7 +118,7 @@ Learn to master Web3 and other new technologies such as blockchain, VR, and meta
 
 ### LinkedIn Learning
 
-Many courses and skills on LinkedIn are free (there are some paid ones too). You can complete pathways and courses for things like AI, coding, technology solutions, evangelism, and lots more.
+Many courses and skills on LinkedIn are free (there are some paid ones too). You can complete pathways and courses for things like AI, coding, technology solutions, cyber security, management, evangelism, and lots more.
 
 ### MathLab Academy
 
